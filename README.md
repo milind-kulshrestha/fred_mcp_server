@@ -1,7 +1,8 @@
 # FRED MCP Server
 
-<video src="fred_demo.mov" controls="controls" style="max-width: 730px;">
-</video>
+[![FRED MCP Server Demo](https://img.shields.io/badge/Watch%20Demo-Video-blue)](fred_demo.mov)
+
+*Click the badge above to watch the demonstration video*
 
 A Model Context Protocol (MCP) server for accessing and analyzing Federal Reserve Economic Data (FRED).
 

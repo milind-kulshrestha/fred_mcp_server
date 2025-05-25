@@ -1,0 +1,21 @@
+# Core dependencies
+aiohttp>=3.8.1
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# MCP Server
+mcp-server>=0.1.4
+
+# Data handling
+statistics>=1.0.3
+
+# Async utilities
+aiohappyeyeballs>=2.6.0
+
+# Logging and configuration
+pydantic-settings>=2.0.0
+
+# Optional: Development tools
+# pytest>=7.0.0
+# black>=23.0.0
+# isort>=5.0.0

@@ -11,7 +11,6 @@ This server provides access to Federal Reserve Economic Data (FRED) using the FR
 ## Features
 
 - **Economic Data Access**: Retrieve economic indicators and time series data from FRED
-- **Data Visualization**: Generate charts and graphs of economic data
 - **Trend Analysis**: Analyze economic trends over time
 - **Comparative Analysis**: Compare multiple economic indicators
 - **Metadata Access**: Get information about available economic series

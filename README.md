@@ -119,6 +119,10 @@ All tools use a consistent `fred_` prefix for clear namespace management:
 - `comparative-analysis`: How to perform comparative analysis of economic indicators
 - `latest-data-analysis`: How to analyze the latest economic indicators
 
+## FRED API Disclaimer
+
+This product uses the FRED® API but is not endorsed or certified by the Federal Reserve Bank of St. Louis. By using this product, you agree to comply with the [FRED® API Terms of Use](https://fred.stlouisfed.org/docs/api/terms_of_use.html).
+
 ## License
 
 MIT

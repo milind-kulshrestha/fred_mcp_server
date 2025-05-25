@@ -1,5 +1,8 @@
 # FRED MCP Server
 
+<video src="fred_demo.mov" controls="controls" style="max-width: 730px;">
+</video>
+
 A Model Context Protocol (MCP) server for accessing and analyzing Federal Reserve Economic Data (FRED).
 
 ## Overview
@@ -95,9 +98,6 @@ To use with Claude for Desktop, add this server to your Claude configuration fil
 **Note:** Replace `your_fred_api_key_here` with your actual FRED API key. You can obtain a free API key by registering at https://fred.stlouisfed.org/docs/api/api_key.html
 
 
-## Demo
-
-![FRED MCP Server Demo](demo.jpeg)
 
 ## Available Tools
 
